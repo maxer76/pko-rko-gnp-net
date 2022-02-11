@@ -1,0 +1,39 @@
+<?xml version='1.0' standalone='yes'?>
+<params>
+ <param>
+  <id>1</id>
+  <value>26-0060-001</value>
+ </param>
+ <param>
+  <id>2</id>
+  <value>24.10.2014</value>
+ </param>
+ <param>
+  <id>3</id>
+  <value>АЗС 60</value>
+ </param>
+ <param>
+  <id>4</id>
+  <value>312814.00</value>
+ </param>
+ <param>
+  <id>5</id>
+  <value>98.27</value>
+ </param>
+ <param>
+  <id>6</id>
+  <value>47552.49</value>
+ </param>
+ <param>
+  <id>7</id>
+  <value>Курасова И. А. (АЗС 60)</value>
+ </param>
+ <param>
+  <id>8</id>
+  <value>Розничная выручка (ККМ №100187)</value>
+ </param>
+ <param>
+  <id>9</id>
+  <value>Суточный отчёт с гашением №0002</value>
+ </param>
+</params>

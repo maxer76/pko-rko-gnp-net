@@ -1,0 +1,1 @@
+<p><span><b><?php echo $_SESSION['azs_name'];?></b></span> - <span><?php echo $_SESSION['address'];?></span></p> <p><span><b><?php echo $_SESSION['role_name'];?></b> (<?php echo $_SESSION['fio'];?>)</span> - <a href="exit.php" role="button">Выйти</a></p> 
